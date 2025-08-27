@@ -1,6 +1,6 @@
 # Built-In CSS Classes
 
-A list of CSS classes that are built into the Stadium stylesheet and can be attached to controls to make the styling of frequently needed UI elemnts simpler and faster. 
+A list of CSS classes that are built into the Stadium stylesheet and can be attached to controls to make the styling of frequently needed UI elements simpler and faster. 
 
 ## Table of Contents
 1. [Usage](#usage)
