@@ -5,6 +5,27 @@ A list of CSS classes that are built into the Stadium stylesheet and can be atta
 ## Table of Contents
 1. [Usage](#usage)
 2. [Classes](#classes)
+    1. [Page Title](#page-title)
+    2. [Secondary Button](#secondary-button)
+    3. [Tertiary Button](#tertiary-button)
+    4. [Grid or Flexbox Items Center Alignment](#grid-or-flexbox-items-center-alignment)
+    5. [Text Center Alignment](#text-center-alignment)
+    6. [Bold](#bold)
+    7. [Underline](#underline)
+    8. [Italic](#italic)
+    9. [Capitalize](#capitalize)
+    10. [Lowercase](#lowercase)
+    11. [Uppercase](#uppercase)
+    12. [X-Small Text](#x-small-text)
+    13. [Smaller Text](#smaller-text)
+    14. [Small Text](#small-text)
+    15. [Larger Text](#larger-text)
+    16. [Large Text](#large-text)
+    17. [X-Large Text](#x-large-text)
+    18. [Divider](#divider)
+    19. [Border](#border)
+    20. [Top Border](#top-border)
+    21. [Bottom Border](#bottom-border)
 
 ## Usage
 1. Check the Enable Style Sheet checkbox in the application properties
