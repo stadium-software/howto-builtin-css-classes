@@ -68,7 +68,7 @@ secondary
 --BUTTON-BACKGROUND-COLOR;
 ```
 
-### Tretiary Button
+### Tertiary Button
 Display a `Button` control as a tertiary button
 
 **Class name**
