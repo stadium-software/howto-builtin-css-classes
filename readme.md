@@ -34,7 +34,7 @@ A list of CSS classes that are built into the Stadium stylesheet and can be atta
     1. Add the [Theming](https://github.com/stadium-software/theming-kit)
     2. Change variables used in the respective classes
 
-**NOTE:** Changing the values of listed variables will usually affect the entire theme
+**NOTE:** Changing the values of listed variables will often affect the entire theme
 
 ![](images/classes-property.png)
 
