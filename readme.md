@@ -1,31 +1,32 @@
-# Built-In CSS Classes
+# Built-In CSS Classes <!-- omit in toc -->
 
 A list of CSS classes that are built into the Stadium stylesheet and can be attached to controls to make the styling of frequently needed UI elements simpler and faster. 
 
-## Table of Contents
+## Table of Contents <!-- omit in toc -->
 1. [Usage](#usage)
 2. [Classes](#classes)
-    1. [Page Title](#page-title)
-    2. [Secondary Button](#secondary-button)
-    3. [Tertiary Button](#tertiary-button)
-    4. [Grid or Flexbox Items Center Alignment](#grid-or-flexbox-items-center-alignment)
-    5. [Text Center Alignment](#text-center-alignment)
-    6. [Bold](#bold)
-    7. [Underline](#underline)
-    8. [Italic](#italic)
-    9. [Capitalize](#capitalize)
-    10. [Lowercase](#lowercase)
-    11. [Uppercase](#uppercase)
-    12. [X-Small Text](#x-small-text)
-    13. [Smaller Text](#smaller-text)
-    14. [Small Text](#small-text)
-    15. [Larger Text](#larger-text)
-    16. [Large Text](#large-text)
-    17. [X-Large Text](#x-large-text)
-    18. [Divider](#divider)
-    19. [Border](#border)
-    20. [Top Border](#top-border)
-    21. [Bottom Border](#bottom-border)
+   1. [Page Title](#page-title)
+   2. [Secondary Button](#secondary-button)
+   3. [Tertiary Button](#tertiary-button)
+   4. [Grid or Flexbox Items Center Alignment](#grid-or-flexbox-items-center-alignment)
+   5. [Required Indicator](#required-indicator)
+   6. [Text Center Alignment](#text-center-alignment)
+   7. [Bold](#bold)
+   8. [Underline](#underline)
+   9. [Italic](#italic)
+   10. [Capitalize](#capitalize)
+   11. [Lowercase](#lowercase)
+   12. [Uppercase](#uppercase)
+   13. [X-Small Text](#x-small-text)
+   14. [Smaller Text](#smaller-text)
+   15. [Small Text](#small-text)
+   16. [Larger Text](#larger-text)
+   17. [Large Text](#large-text)
+   18. [X-Large Text](#x-large-text)
+   19. [Divider](#divider)
+   20. [Border](#border)
+   21. [Top Border](#top-border)
+   22. [Bottom Border](#bottom-border)
 
 ## Usage
 1. Check the Enable Style Sheet checkbox in the application properties
@@ -88,6 +89,14 @@ Center-align items in a Grid or Flexbox
 **Class name**
 ```css
 align-center
+```
+
+### Required Indicator
+Show a * next to form fields
+
+**Class name**
+```css
+required-indicator
 ```
 
 ### Text Center Alignment
